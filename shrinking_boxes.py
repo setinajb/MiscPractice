@@ -1,6 +1,6 @@
 import rosegraphics as rg
 
-def shrinking_boxes(starting_square, colors, window):
+def shrinking_boxes(starting_square, num_rings, colors, window):
     pass
 
 
