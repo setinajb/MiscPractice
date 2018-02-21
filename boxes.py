@@ -4,7 +4,6 @@
 
 
 import rosegraphics as rg
-import math
 
 
 def go_along_row(row_size, rsx, rsy, width, color, window):
